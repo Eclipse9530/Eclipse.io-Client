@@ -57,7 +57,7 @@
     right: 8px
 }
 #ingameFPS {
-color: #fff700
+color: #fff700 !important
 }
 /*
 this is the old menu

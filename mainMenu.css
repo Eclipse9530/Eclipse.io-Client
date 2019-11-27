@@ -59,9 +59,10 @@
 #ingameFPS {
 color: #fff700 !important
 }
-/*
-this is the old menu
-*/
+#pingDisplay {
+color: #fff700 !important
+}
+
 
 #chatHolder {
     position: absolute;
